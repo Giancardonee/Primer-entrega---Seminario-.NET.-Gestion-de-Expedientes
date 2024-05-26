@@ -1,0 +1,24 @@
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.deps.json
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.pdb
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.AssemblyInfoInputs.cache
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.AssemblyInfo.cs
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.csproj.CoreCompileInputs.cache
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.sourcelink.json
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/refint/SGE.Aplicacion.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.pdb
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Aplicacion/obj/Debug/net8.0/ref/SGE.Aplicacion.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.deps.json
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/bin/Debug/net8.0/SGE.Aplicacion.pdb
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.sourcelink.json
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/refint/SGE.Aplicacion.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/SGE.Aplicacion.pdb
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Aplicacion/obj/Debug/net8.0/ref/SGE.Aplicacion.dll
