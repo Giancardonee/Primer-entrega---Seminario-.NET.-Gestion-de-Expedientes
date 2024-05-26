@@ -1,0 +1,32 @@
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.deps.json
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.pdb
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/bin/Debug/net8.0/SGE.Aplicacion.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/bin/Debug/net8.0/SGE.Aplicacion.pdb
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.csproj.AssemblyReference.cache
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.AssemblyInfoInputs.cache
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.AssemblyInfo.cs
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.csproj.CoreCompileInputs.cache
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.sourcelink.json
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repo.5B6658F4.Up2Date
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/refint/SGE.Repositorios.dll
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.pdb
+/home/TobiasReigenborn/Escritorio/tpSGE/SGE.Repositorios/obj/Debug/net8.0/ref/SGE.Repositorios.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.deps.json
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/bin/Debug/net8.0/SGE.Repositorios.pdb
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/bin/Debug/net8.0/SGE.Aplicacion.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/bin/Debug/net8.0/SGE.Aplicacion.pdb
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.csproj.AssemblyReference.cache
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.AssemblyInfoInputs.cache
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.AssemblyInfo.cs
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.sourcelink.json
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repo.5B6658F4.Up2Date
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/refint/SGE.Repositorios.dll
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/SGE.Repositorios.pdb
+C:/Users/Usuario/Desktop/Proyecto .net/SistemaGestionExpedientes/SGE.Repositorios/obj/Debug/net8.0/ref/SGE.Repositorios.dll
